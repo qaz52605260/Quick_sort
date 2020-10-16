@@ -42,7 +42,7 @@ public class Quick_Sort {
 	
 		int[] A= {15,77,62,49,9,2};
 		
-		quicksort(A);
+		quicksort(A);						//wow
 		
 		/*List<Integer> N=new ArrayList<Integer>();
 		N.add(15);
